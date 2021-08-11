@@ -12,3 +12,9 @@ A open source css editor hacker client made by Nonda early prototype made in 202
 +Update+ Aug 11 (3:29 pm) fixed html script not working on firefox 
 
 +Update+ Aug 11 (11:42 pm) added 117 new lines of code to make sure new linux version runs smoothly
+
++Update Aug 12 (6:42 am) added support for mac os 10.15-11.0 and any later versions that relase
+
++Update Aug 12 (7:21 am) major UI overhaul including new icons and buttons
+
++Update Aug 12 (8:54 am) previously if commiting changes through python on linux between version 16.78 and 17.24.3 it would crash the client but it has now been fixed
