@@ -17,4 +17,6 @@ A open source css editor hacker client made by Nonda early prototype made in 202
 
 +Update Aug 12 (7:21 am) major UI overhaul including new icons and buttons
 
-+Update Aug 12 (8:54 am) previously if commiting changes through python on linux between version 16.78 and 17.24.3 it would crash the client but it has now been fixed
++Update Aug 12 (8:54 am) fixed commiting changes through python on linux between version 16.78 and 17.24.3 
+
++Update Aug 12 (10:02 am) fixed css compiling issues
