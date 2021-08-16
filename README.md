@@ -1,4 +1,4 @@
-# Live-css-editor-hacker-client-Nonda-v1.2
+# Live-css-editor-hacker-client-Nonda-v1.3
 A open source css editor hacker client made by Nonda early prototype made in 2020 with the final version being published on August 10 *NOTE* It is illegal to use this client for malicious intent >> Victoria: There is no express provision removing the duty to warn of obvious risk although sections 53 to 56 of the Wrongs Act 1958 (Vic) confirms there is no liability for harm suffered by another as a result of an inherent risk and an obvious risk as the person is presumed to have been aware of the risk of harm. 
 
 +Update+ Aug 11 (5:42 am) fixed compiling issues when usins json clients between 1.14.078 and 1.14.083 fixed latency by 0.4 pings a second due to a suprising amount of downloads i have been getting in the past 12 hours
@@ -23,6 +23,8 @@ A open source css editor hacker client made by Nonda early prototype made in 202
 
 +Update+ Aug 12 (10:02 am) fixed css compiling issues
 
-+Update+ Aug 23 (6:14 am) updated client to now hack .OGG files
++Update+ Aug 13 (6:14 am) updated client to now hack .OGG files
 
-+update+ Aug 23 (5:00pm) updated to v1.2
++update+ Aug 13 (5:00pm) updated to v1.2
+
++update+ Aug 16 (5:00pm) updated to v1.3
