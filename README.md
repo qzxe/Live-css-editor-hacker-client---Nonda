@@ -14,3 +14,7 @@ A open source css editor hacker client made by Nonda early prototype made in 202
 +Update+ Aug 16 (7:00 am) updated to v1.6
 
 +Update+ Aug 17 (7:00 am) updated to v1.7
+
++Update+ Aug 18 (7:00 am) updated to v1.8
+
++Update+ Aug 19 (7:00 am) updated to v1.9
