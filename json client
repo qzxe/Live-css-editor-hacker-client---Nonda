@@ -1,6 +1,6 @@
 {
   "name": "Live-css-editor-hacker-client-Nonda-v3.1",
-  "version": "8.17.0",
+  "version": "3.1.0",
   "scripts": {
     "install-legacy-peer-deps": "npm install --legacy-peer-deps",
     "version": "./scripts/build-and-release/prepare-version/prepare-version.sh",
