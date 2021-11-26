@@ -9791,4 +9791,4 @@ chrome.extension.sendRequest({cmd:'getIni'}, (function () {
 
 	return _pub_static;
 }()));
-}, Function (txt) 0101a year later and 9794 lines of code later and im done with this bullshit0101 }. true);
+}, Function 
